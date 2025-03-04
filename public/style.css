@@ -1,6 +1,6 @@
 
         body {
-            background-color: gold;
+            background-color: black;
             font-family: 'Georgia', serif;
             margin: 0;
             padding: 0;
@@ -46,7 +46,7 @@
             flex-wrap: wrap;
         }
         .card {
-            background: black;
+            background: gold;
             color: white;
             padding: 1rem;
             border-radius: 10px;
@@ -133,3 +133,11 @@
                       text-align: center;
                   }
                   
+
+                  h1{
+                    color: white;
+                  }
+
+                  h2{
+                    color: white;
+                  }
